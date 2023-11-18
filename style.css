@@ -1,0 +1,232 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    color: white;
+    background: crimson;
+    background-color: #6f42c1;
+}
+.container {
+    background-color: #6f42c1;
+}
+.container h5:hover {
+    color: black;
+}
+.header li {
+    display: inline-block;
+}
+.header li a {
+    color: white;
+    padding: 15px 10px;
+    display: block;
+    text-decoration: none;
+}
+.header li a:hover {
+    text-decoration: underline;
+}
+/* home-part */
+.home {
+    background-color: #6f42c1;
+}
+.home button {
+    color: white;
+}
+.project-button {
+    background-color: #1fb6fc;
+}
+.call-button {
+    background-color: #bc6ff1 ;
+}
+.services {
+    width: 25%;
+    height: 400px;
+    margin-left: 70px;
+    padding-top: 50px;
+}
+.services-six {
+    width: fit-content;
+    padding-top: 100px;
+    height: auto;
+}
+.services button {
+    background-color: #bc6ff1;
+    color: white;
+}
+.part {
+    width: 30%;
+    height: 230px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.icon {
+    width: 50px;
+    height: 50px;
+    margin: 10px auto;
+    margin-bottom: 40px;
+    border: 1px solid white;
+}
+.part:hover {
+    background-color: #1fb6fc;
+    color: white;
+}
+.part-three {
+    height: auto;
+    width: 100%;
+}
+.num {
+    padding-left: 40px;
+    padding-bottom: 40px;
+}
+.number {
+    margin-left: 370px;
+    width: 60%;
+}
+.girls-img {
+    width: 22%;
+    padding-top: 50px;
+    height: 130px;
+}
+/* part-four */
+.div2 {
+    width: 100%;
+    height: 750px;
+}
+.picture {
+    width: 50%;
+    height: auto;
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.picture img {
+    width: 100%;
+    height: auto;
+}
+.offer {
+    margin-top: 80px;
+    margin-left: 70px;
+    width: 50%;
+    margin-right: 10px;
+}
+.itli {
+    font-size: 1.7rem;
+    font-family: 'Cormorant', serif;
+}
+.list{
+    color: white;
+    padding-top: 20px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* team */
+.team {
+    width: 100%;
+    height: 700px;
+}
+.member-info {
+    padding-top: 80px;
+    margin-left: 100px;
+}
+.box-one {
+    margin: 20px;
+    width: 230px;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+}
+.box-one img {
+    width: 100%;
+    height: auto;
+}
+.member-img {
+    margin-left: 100px;
+    padding-left: 20px;
+}
+.member-content {
+    width: 230px;
+    height: auto;
+
+    /* background-color: white;
+    color: white;
+    position: absolute;
+    top: 0;
+    left: -100%;
+    height: 100%;
+    width: 100%;
+    padding: 30px;
+    box-sizing: border-box;
+    transition: all 0.5s; */
+}
+/* .box-one:hover .member-content {
+    left: 0;
+} */
+
+ /* testimonial */
+ .circular-image {
+    width: 80px;
+    height: 80px;
+ }
+ .circle-text {
+    font-size: 0.7rem;
+ }
+.icons {
+    width: 50px;
+    height: 50px;
+    margin: 10px auto;
+    margin-bottom: 40px;
+    background-color: #1fb6fc;
+    border: 1px solid white;
+}
+.testimonial-para {
+    margin: 10px auto;
+}
+
+/* purple-part */
+.purple-part {
+    background-color: #6f42c1;
+    height: 600px;
+}
+.purple-card {
+    margin-top: 50px;
+}
+
+/* portfolio */
+.portfolio-image {
+    width: 23%;
+    height: 340px;
+    margin-left: 18px;
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+
+/* view-portfolio */
+.view-portfolio a {
+    text-decoration: none;
+    cursor: pointer;
+}
+.view-portfolio a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+/* price */
+.price {
+    margin-left: 120px;
+}
+
+/* foot */
+.purple-foot {
+    background-color: #6f42c1;
+}
+
+
+
+
+
+
+
+
+
+
+
